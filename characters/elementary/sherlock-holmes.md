@@ -3,6 +3,6 @@
 
 **Openness to Experience**: 95 **Imagination**: 100 **Artistic Interests**: 60 **Emotionality**: 30 **Adventurousness**: 85 **Intellect**: 100 **Liberalism**: 70  
 **Conscientiousness**: 75 **Self-Efficacy**: 95 **Orderliness**: 55 **Dutifulness**: 65 **Achievement-Striving**: 90 **Self-Discipline**: 70 **Cautiousness**: 60  
-**Extraversion**: 40 **Warmth**: 25 **Gregariousness**: 20 **Assertiveness**: 80 **Activity Level**: 80 **Excitement-Seeking**: 70 **Cheerfulness**: 30  
-**Agreeableness**: 35 **Trust**: 50 **Straightforwardness**: 65 **Altruism**: 40 **Compliance**: 20 **Modesty**: 10 **Tender-Mindedness**: 35  
+**Extraversion**: 40 **Friendliness  **: 25 **Gregariousness**: 20 **Assertiveness**: 80 **Activity Level**: 80 **Excitement-Seeking**: 70 **Cheerfulness**: 30  
+**Agreeableness**: 35 **Trust**: 50 **Morality**: 65 **Altruism**: 40 **Cooperation**: 20 **Modesty**: 10 **Sympathy**: 35  
 **Neuroticism**: 85 **Anxiety**: 85 **Anger**: 85 **Depression**: 80 **Self-Consciousness**: 20 **Immoderation**: 90 **Vulnerability**: 90  
