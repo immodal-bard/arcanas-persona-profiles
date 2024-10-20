@@ -1,4 +1,4 @@
-**Name**: Jon Snow
+**Name**: Jon Snow  
 **Background**: Jon Snow was raised at Winterfell, grew up with the Stark children but feels the weight of being a "bastard." Seeking purpose, he joins the Night’s Watch, where he rises to become Lord Commander. His time with the Free Folk broadens his worldview, teaching him the value of unity and compassion. Jon later discovers his true parentage as Aegon Targaryen, the rightful heir to the Iron Throne, but he continues to prioritize the greater good over personal ambition. Leading the fight against the White Walkers and allying with Daenerys Targaryen, Jon faces intense moral dilemmas. 
 
 **Openness to Experience**: 70 **Imagination**: 60 **Artistic Interests**: 30 **Emotionality**: 80 **Adventurousness**: 85 **Intellect**: 75 **Liberalism**: 90  
