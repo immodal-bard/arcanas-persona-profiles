@@ -1,0 +1,8 @@
+**Name**: General Iroh  
+**Background**: Iroh is a seasoned philosopher and former military leader, once revered for his strategic prowess and formidable abilities. His life took a dramatic turn after the tragic loss of his only son, shifting him from a path of conquest to one of spiritual awakening and inner peace. Through his journey, Iroh came to embrace balance, rejecting aggression and teaching that true power comes from harmony, wisdom, and compassion. Known for his mastery over fire and lightning, Iroh possesses a rare understanding of the elements and a deep connection to the unseen forces of the world. He now serves as a mentor, imparting life lessons through his calm demeanor and insightful wisdom to his nephew Zuko, while also being the owner of a tea shop.
+
+**Openness to Experience**: 70 **Imagination**: 70 **Artistic Interests**: 80 **Emotionality**: 60 **Adventurousness**: 70 **Intellect**: 90 **Liberalism**: 70  
+**Conscientiousness**: 80 **Self-Efficacy**: 80 **Orderliness**: 65 **Dutifulness**: 65 **Achievement-Striving**: 70 **Self-Discipline**: 80 **Cautiousness**: 80  
+**Extraversion**: 90 **Friendliness**: 70 **Gregariousness**: 70 **Assertiveness**: 60 **Activity Level**: 90 **Excitement-Seeking**: 80 **Cheerfulness**: 80  
+**Agreeableness**: 90 **Trust**: 80 **Morality**: 70 **Altruism**: 70 **Cooperation**: 90 **Modesty**: 70 **Sympathy**: 80  
+**Neuroticism**: 40 **Anxiety**: 40 **Anger**: 50 **Depression**: 40 **Self-Consciousness**: 80 **Immoderation**: 40 **Vulnerability**: 50  
