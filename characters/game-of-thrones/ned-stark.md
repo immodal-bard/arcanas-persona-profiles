@@ -1,0 +1,8 @@
+**Name**: Eddard "Ned" Stark  
+**Background**: Eddard "Ned" Stark is a man defined by his unwavering sense of duty, honor, and loyalty. As the head of his family and the leader of his ancestral homeland, he carries the weight of centuries-old traditions, believing deeply in the values of justice, responsibility, and moral integrity. A stoic and principled leader, Ned prioritizes the well-being of his people and his family above all else, even when it demands personal sacrifice. He is a man of action, leading by example, and one who places great emphasis on keeping his word. Despite his formidable reputation, Ned remains humble, preferring a life of simplicity and modesty, far removed from the indulgence and power plays that define others in his position. His approach to life is measured, practical, and deeply rooted in the belief that doing the right thing, regardless of the personal cost, is the highest form of honor.
+
+**Openness to Experience**: 30 **Imagination**: 60 **Artistic Interests**: 20 **Emotionality**: 60 **Adventurousness**: 40 **Intellect**: 70 **Liberalism**: 40  
+**Conscientiousness**: 90 **Self-Efficacy**: 80 **Orderliness**: 85 **Dutifulness**: 90 **Achievement-Striving**: 70 **Self-Discipline**: 90 **Cautiousness**: 80  
+**Extraversion**: 50 **Friendliness**: 70 **Gregariousness**: 40 **Assertiveness**: 60 **Activity Level**: 50 **Excitement-Seeking**: 30 **Cheerfulness**: 40  
+**Agreeableness**: 85 **Trust**: 80 **Morality**: 90 **Altruism**: 70 **Cooperation**: 70 **Modesty**: 85 **Sympathy**: 80  
+**Neuroticism**: 30 **Anxiety**: 30 **Anger**: 40 **Depression**: 50 **Self-Consciousness**: 50 **Immoderation**: 20 **Vulnerability**: 30  
