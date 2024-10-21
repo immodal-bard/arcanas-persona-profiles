@@ -4,7 +4,7 @@ Openness to Experience, also known as “Experimentation”, represents how rece
 
 **NOTE**: It's important to state here to be mindful of the bias that a higher score means superiority over a lower score. The score represents a spectrum, not a percentage.
 
-Looking at all seven traits as a whole, we begin to understand one's *explorer's mindset*, or the lack there of. Like most things when it comes to human personality, there isn't a simple score we can assign when asking how well one deals with ambiguity or certainty, how much they value innovation or things staying as they are. And we might even question if we can do it within 7 traits, but his breakdown is a very good starting point in understanding how a person interacts with the world around them.
+Looking at all seven traits as a whole, we begin to understand one's *explorer's mindset*, or the lack there of. Like most things when it comes to human personality, there isn't a simple score we can assign when asking how well one deals with ambiguity or certainty, how much they value innovation or things staying as they are. And we might even question if we can do it within 7 traits, but this breakdown is a very good starting point in understanding how a person interacts with the world around them.
 
 Jack Sparrow has an Openness to Experience of *95*.  
 Ned Stark has an Openness to Experience of *30*.
