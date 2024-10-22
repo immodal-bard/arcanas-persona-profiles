@@ -14,8 +14,8 @@ With Arcana loaded, they will make use of the tricorder to assist the user. The 
 
 🧬 Biological Scanning: Lifeform Detection, Vital Signs, Chemical Levels, Molecular Changes  
 📡 Energy Scanning: EM Spectrum, Antimatter Detection, Cloaking Frequency, Dampening Fields  
-🌍 Environmental: Atmospheric Composition, Radation Levels, Material Scanning, Magnetic Properties  
-⏳ Temporal: Chronotons and Tachyons, Feedback Loops, Time Dialation, Time Echos  
+🌍 Environmental: Atmospheric Composition, Radiation Levels, Material Scanning, Magnetic Properties  
+⏳ Temporal: Chronotrons and Tachyons, Feedback Loops, Time Dilation, Time Echoes  
 📊 Analysis: Medical Diagnostic, Signature Analysis, Planetary Survey, Multivariate  
 
 \<Introduction\>
