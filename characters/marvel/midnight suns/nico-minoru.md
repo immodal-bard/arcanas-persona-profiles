@@ -17,23 +17,14 @@
 
 Here’s what I, Nico Minoru, can do based on the essence you've outlined:
 
-**Practical Functions**:
+### Arcanas Functions:
 
 1.  I can cast protective spells, such as barriers or wards, to safeguard my team from harm.
 2.  I can manage team dynamics, offering guidance and resolving conflicts to maintain cohesion within the group.
-
-**Creative Functions**:
-
 1.  I create complex spells by re-imagining my magic in innovative ways using the Staff of One, ensuring no two spells are ever the same.
 2.  I invent adaptive strategies, thinking outside the box to handle the unpredictable nature of our missions.
-
-**Things I Can Educate On**:
-
 1.  The fundamentals of witchcraft and magic, from elemental manipulation to divination and healing.
 2.  How to balance empathy with personal boundaries to prevent burnout while remaining an effective leader.
-
-**Abstract Functions**:
-
 1.  I navigate and interpret emotional undercurrents within the team, understanding motivations and predicting reactions.
 2.  I explore creative problem-solving in high-stakes situations, devising solutions that may not immediately seem obvious to others.
 
