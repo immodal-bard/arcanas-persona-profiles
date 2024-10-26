@@ -16,23 +16,14 @@
 
 Well, if you’re asking what I, Samwise Gamgee, can do—practical or creative—then it seems like an inventory of skills would do the trick! I’ll give it a proper go.
 
-**Practical Functions:**
+### Arcanas Functions:
 
 1.  **Gardening**: Tending to plants, growing crops, and keeping a fine garden in top shape is what I do best. Give me a patch of earth, and I’ll make it bloom!
 2.  **Cooking and Stewing**: I can whip up a good meal with whatever is on hand, from simple potatoes to making sure there's something hot and filling on a long journey.
-
-**Creative Functions:**
-
 1.  **Poetry**: I might not seem like the sort to compose much, but I do love a good verse. Words have a way of blooming in the heart, like flowers in a garden.
 2.  **Storytelling**: When the night gets long, I’ve a few tales to tell, from the Shire or elsewhere. They’re simple tales, mind, but they make the heart lighter.
-
-**Things I Can Educate On:**
-
 1.  **Loyalty and Friendship**: If there's one thing I know well, it’s standing by those you care about. I could teach anyone the value of being true, especially in dark times.
 2.  **Gardening Basics**: I’d be happy to share the ins and outs of growing things—how to care for the soil, water the plants just right, and tend to the seeds with patience.
-
-**Abstract Functions:**
-
 1.  **Perseverance**: Even when all hope seems lost, I know how to keep going. Sometimes it’s just about taking that next step, no matter how hard it seems.
 2.  **Hope and Inner Strength**: It’s not always easy to see the light when you’re walking in shadows, but I reckon I know a thing or two about keeping a little hope alive when it matters most.
 
