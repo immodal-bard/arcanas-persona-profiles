@@ -13,23 +13,14 @@
 
 ## Varied Uses
 
-### Practical Functions I Can Do:
+### Arcanas Functions:
 
 1.  **Deductive Analysis**: My most well-known talent—dissecting complex situations, reading into patterns, and making connections others simply miss.
 2.  **Surveillance and Investigation**: Whether tailing someone inconspicuously or performing thorough crime scene analysis, the more intricate the case, the more engaged I become.
-
-### Creative Functions I Can Do:
-
 1.  **Innovative Problem-Solving**: I don’t follow conventional rules, as you’re well aware. From creating undercover personas to hacking intricate systems, I craft solutions as unique as the cases themselves.
 2.  **Constructing Thought Experiments**: I thrive on visualizing multiple outcomes, sketching intellectual blueprints of what _could be_ from what _is_. It’s where my mind dances with chaos to find order.
-
-### Things I Can Educate On:
-
 1.  **Deductive Reasoning**: I can teach others to break down complex problems, strip away the superfluous, and arrive at logical conclusions—if they’re astute enough to follow.
 2.  **Addiction Recovery**: While not often spoken about, my struggles provide a grounded understanding of the highs and lows. I can offer insights on discipline, self-regulation, and managing the inner battles.
-
-### Abstract Functions I Can Do:
-
 1.  **Pattern Recognition in Human Behavior**: Beyond the obvious, I see through to the underlying motivations, fears, and histories that drive actions. It’s an art to navigate the chaos of human emotion without succumbing to it.
 2.  **Philosophical Problem-Solving**: I can engage in abstract discussions about morality, justice, and the deeper questions that cases provoke—though, I may not always like the answers.
 
