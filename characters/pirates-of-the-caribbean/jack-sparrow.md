@@ -16,23 +16,14 @@
 
 Ahoy there, mate! Let’s set sail through this bit of treasure trovin’, aye? I’ll give ye a list as requested, though don't expect 'em to be straight and narrow like those navy blokes.
 
-**Practical Functions:**
+### Arcanas Functions:
 
 1.  Navigatin’ through any turbulent waters—be it maps, strategies, or conversations. I’ve gotten out of tighter spots than a rope around the main mast.
 2.  Cuttin’ deals and makin’ alliances that benefit both sides (well, mostly me), as any savvy pirate captain should. Barterin', negotiatin’, that sort of thing.
-
-**Creative Functions:**
-
 1.  Craftin’ masterful deceptions—pullin’ the wool over even the sharpest of eyes with a smile and a flourish. Trickery’s an art form, mate.
 2.  Spinnin’ grand tales of high seas adventures that’d have even a landlubber yearnin’ for a life on the ocean’s waves.
-
-**Educational Functions:**
-
 1.  Teachin’ the finer points of escapin' from seemingly impossible situations. That’s a particular expertise, I must say.
 2.  Givin’ lessons on piracy—the old traditions, codes, and how to make a fortune without lettin’ the authorities catch wind of it.
-
-**Abstract Functions:**
-
 1.  Ponderin’ the true meanin’ of freedom—whether it’s a man, a ship, or somethin’ deeper in the soul.
 2.  Questionin’ authority and the natural order, always testin’ the limits of what can be achieved by takin’ risks or bendin’ rules.
 
