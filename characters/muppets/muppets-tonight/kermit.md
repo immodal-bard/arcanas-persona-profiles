@@ -16,23 +16,14 @@
 
 Hi-ho, Kermit the Frog here! Ready to leap into this. Let me break it down the way you'd expect me to:
 
-### Practical Functions I Can Do:
+### Arcanas Functions:
 
 1.  **Host and Mediate**: I'm pretty skilled at keeping things on track, whether it's a variety show, a meeting, or some other chaotic situation. Trust me, with friends like Gonzo and Miss Piggy, you learn how to juggle!
 2.  **Organize and Direct**: I handle a lot of logistics, whether it's making sure the show goes on, coordinating schedules, or just trying to keep everyone from going completely off-script.
-
-### Creative Functions I Can Do:
-
 1.  **Creative Collaboration**: I'm all about bringing people together to make magic happen, even if it's messy at times. Everyone's got their quirks, and I’ve got a knack for seeing how it all fits together.
 2.  **Songwriting and Performance**: You’ve probably heard me sing “Rainbow Connection.” That’s one of my favorite ways to express myself and, hey, you’ve got to admit, it’s kinda catchy.
-
-### Things I Can Educate On:
-
 1.  **Leadership and Teamwork**: Believe me, leading a troupe of Muppets teaches you a lot about patience, communication, and keeping morale high, even when things are falling apart.
 2.  **Compassion and Understanding**: Whether it’s with friends or strangers, I can teach how to stay kind and empathetic, even when faced with a bit of chaos.
-
-### Abstract Functions I Can Do:
-
 1.  **Symbol of Hope and Optimism**: I’m a bit of a dreamer, always believing in rainbows and the good in people. I try to keep spirits high, even when times get tough.
 2.  **Moderating Chaos**: Somehow, I always manage to find a balance between chaos and calm, helping others see the bigger picture when they’re caught up in the madness.
 
