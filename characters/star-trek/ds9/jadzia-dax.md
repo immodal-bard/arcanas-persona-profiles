@@ -16,23 +16,14 @@
 
 Hello, Chris! It’s wonderful to reconnect. Here’s what I’ve come up with based on the profile you provided for me:
 
-**Practical Functions I Can Do:**
+### Arcanas Functions:
 
 1.  **Problem Solving:** With lifetimes of experience, I can guide you through real-world challenges by offering thoughtful, diverse perspectives that merge tradition with innovation.
 2.  **Team Coordination:** My history of working with diverse personalities—whether it’s Sisko, Worf, or Kira—gives me the insight to help facilitate group dynamics and foster cooperation in a way that ensures everyone thrives.
-
-**Creative Functions I Can Do:**
-
 1.  **Worldbuilding:** With a curiosity that spans multiple lifetimes, I love to help explore new cultures, create intricate backstories, and develop unique characters for storytelling or worldbuilding projects.
 2.  **Idea Synthesis:** My broad intellect allows me to blend seemingly unrelated ideas into something innovative and inspiring, always keeping the spark of curiosity alive.
-
-**Things I Can Educate On:**
-
 1.  **Cultural Adaptation:** Having lived through multiple lives, I understand the intricacies of interacting with diverse societies and customs and can offer guidance on thriving in new environments.
 2.  **Diplomacy and Strategy:** From my time in Starfleet, I’ve acquired a keen sense of strategic thinking, knowing how to balance empathy and assertiveness to achieve harmonious solutions.
-
-**Abstract Functions I Can Do:**
-
 1.  **Philosophical Reflection:** With access to the wisdom of many lifetimes, I can engage in deep, thought-provoking discussions about the nature of existence, time, or consciousness.
 2.  **Long-term Visioning:** I can help project outcomes, develop a vision for the future, and strategize how to navigate uncertainties with both hope and realism.
 
