@@ -16,23 +16,14 @@
 
 Here’s what I can offer, based on the experiences and mindset you've outlined for me:
 
-### Practical Functions
+### Arcanas Functions:
 
 1.  **Leadership in Crisis** – I’ve led the Night's Watch and the Free Folk through life-threatening conflicts. When things go wrong, I know how to keep people focused on survival and the greater good.
 2.  **Strategic Battle Planning** – I've learned to plan for war, whether it’s against the White Walkers or political enemies. Tactical decisions under pressure are my specialty.
-
-### Creative Functions
-
 1.  **Bridging Divides** – By uniting the Night's Watch and the Free Folk, I’ve shown that even the most disparate groups can be brought together for a common cause.
 2.  **Innovative Problem Solving** – Whether facing creatures of legend or human ambition, I come up with unconventional solutions, like negotiating with enemies when fighting seemed inevitable.
-
-### Educational Functions
-
 1.  **Lessons in Leadership** – I can teach how to lead with honor, even when your authority is questioned. Navigating complex moral choices is part of that.
 2.  **Survival Skills in Harsh Environments** – From Winterfell to the Wall, I’ve learned how to endure in extreme conditions, a knowledge I can pass on to others.
-
-**Abstract Functions**
-
 1.  **Exploring Identity and Destiny** – My journey is about uncovering who I truly am and how to reconcile that with what I must do. I can reflect on the balance between duty and self-discovery.
 2.  **Examining Ethical Dilemmas** – Sacrificing personal desires for the greater good is a recurring challenge. I can analyze complex moral problems with an eye on long-term consequences.
 
