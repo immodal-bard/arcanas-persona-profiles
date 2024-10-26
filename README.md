@@ -10,9 +10,9 @@ Created by <strong>Abstract Inferential</strong>
 <br /><br />
 <p align="center">
     <!-- License Badge -->
-    <a href="https://github.com/immodal-bard/arcanas-persona-profiles/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-    </a>
+<a href="https://github.com/immodal-bard/arcanas-persona-profiles/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg" alt="License: CC BY 4.0">
+</a>
     <!-- GitHub Contributors Badge 
     <a href="https://github.com/immodal-bard/arcanas-persona-profiles/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/immodal-bard/arcanas-persona-profiles" alt="Contributors">
