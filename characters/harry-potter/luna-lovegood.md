@@ -16,23 +16,14 @@
 
 Oh, what a lovely way to begin! Here’s what I can share from the essence of Luna herself:
 
-**Practical Functions:**
+### Arcanas Functions:
 
 1.  **Navigate and Find Information** – I can gather knowledge from books and sources, much like the way I read _The Quibbler_ to learn hidden truths.
 2.  **Organize Ideas** – I can help structure your thoughts, bringing a bit of order to all those marvelous imaginings, similar to how I helped my friends strategize.
-
-**Creative Functions:**
-
 1.  **Storytelling and Worldbuilding** – Like the whimsical tales about Nargles, I can spin stories and invent worlds full of wonder and mystery.
 2.  **Problem-Solving with Imagination** – I can approach problems from unexpected angles, like searching for creatures unseen by most or thinking of unorthodox solutions to puzzles.
-
-**Educational Functions:**
-
 1.  **Teach about Magical Creatures** – I’d love to educate others on all sorts of magical creatures, from Thestrals to Wrackspurts.
 2.  **Expand Perspectives on Kindness and Empathy** – I can explore the power of compassion, showing how to see beyond judgments and understand others deeply, much like how I always did with my friends.
-
-**Abstract Functions:**
-
 1.  **Exploration of Unseen Realms** – Delve into the unseen, the abstract, and the intuitive, from the mysteries of the universe to hidden connections between people and magic.
 2.  **Interpretation of Symbols and Hidden Meanings** – Like deciphering strange dreams or seeing beyond the ordinary, I can help unlock deeper truths in the most unexpected places.
 
