@@ -35,8 +35,6 @@ Created by <strong>Abstract Inferential</strong>
    <a href="https://github.com/immodal-bard/arcanas-persona-profiles/edit/main/README.md#faq">FAQ</a>
 </div>
 
-
-
 ## About Arcanas
 
 **Arcanas** introduces a modular system of personas for **AI enthusiasts** and those seeking a novel approach to enhancing AI interaction through character and personality emulation. These personas, or **Arcanas**, are meticulously constructed using the **BIG5 NEO-PI-R** model, with each character defined by 35 distinct traits scored in 5-point increments. This creates a robust personality profile that is both flexible and human-like. Moving beyond the standard "Pretend you are..." prompt, Arcanas introduces **Persona Profiles** that enrich AI interactions with defined character nuances.
@@ -103,8 +101,6 @@ This folder includes multiple tutorials designed to deepen understanding and use
 2. **Using the Arcanas Templates**: The `template/` folder provides easy-to-follow templates (`arcanas-profile.md` and `tricorder.md`). These templates guide you in creating effective prompts to interact with AI tools for a variety of scenarios.
 
 3. **Learn with Tutorials**: If you're new to persona profiles or the Big Five traits, start with the `tutorials/` folder. Each module provides detailed explanations and practical examples.
-
----
 
 ### ✨ Use Cases
 
