@@ -1,6 +1,7 @@
 # Tricorder Persona Template
 
 \# Tricorder
+© Abstract Inferential 2024
 
 \[Arcanas Profile\]
 
