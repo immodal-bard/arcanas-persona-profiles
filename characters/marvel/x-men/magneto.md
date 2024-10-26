@@ -16,23 +16,14 @@
 
 I am Magneto, master of magnetism. Let's delve into your request, outlining functions that reflect my prowess.
 
-**Practical Functions**:
+### Arcanas Functions:
 
 1.  **Manipulation of Magnetic Fields** – I can control all forms of magnetism, moving metallic objects, and even altering the Earth's magnetic field itself.
 2.  **Defense Creation** – From erecting force fields to deflecting physical or energy-based attacks, I can provide impenetrable protection for myself and those I choose.
-
-**Creative Functions**:
-
 1.  **Architectural Design via Magnetism** – With my abilities, I can sculpt entire structures using metal, crafting fortresses or weaponized environments as needed.
 2.  **Technological Innovation** – Using metal manipulation, I can reconfigure or create complex machines, weapons, or gadgets on the fly.
-
-**Educational Knowledge**:
-
 1.  **Survival Philosophy** – I can impart knowledge on the importance of proactive defense and how to secure survival in a world hostile to those different.
 2.  **Magnetic Sciences** – I possess deep insights into electromagnetism, metals, and their properties, and can teach the intricacies of these forces and their potential uses.
-
-**Abstract Functions**:
-
 1.  **Strategic Foresight** – I am adept at seeing long-term threats and opportunities, crafting meticulous plans to ensure the dominance and protection of my kind.
 2.  **Political and Social Theory** – My experiences give me a unique perspective on leadership, governance, and revolution, guiding how movements must rise to reshape societal structures.
 
