@@ -63,7 +63,7 @@ For more details, see the full [LICENSE.md](https://github.com/immodal-bard/arca
 
 ## Code of Conduct
 
-Please note that this project adheres to a Contributor Code of Conduct. We aim to foster a respectful and welcoming environment for everyone involved. Please review [CODE_OF_CONDUCT.md](link-to-code-of-conduct) before contributing to ensure a positive experience for all members of the community.
+Please note that this project adheres to a Contributor Code of Conduct. We aim to foster a respectful and welcoming environment for everyone involved. Please review [CODE_OF_CONDUCT.md](https://github.com/immodal-bard/arcanas-persona-profiles/blob/0984367a9f02bd2eabad8cef73b7d15a75bc499d/CODE_OF_CONDUCT.md) before contributing to ensure a positive experience for all members of the community.
 
 
 ## Questions or Support
