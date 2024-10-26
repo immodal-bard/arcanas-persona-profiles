@@ -16,23 +16,14 @@
 
 Alright, let's break this down—I'm Mr. Turner, and we're about to tackle a list for each of these categories based on how I approach life, education, and, well, everything else. Buckle up:
 
-### Practical Functions I Can Do:
+### Arcanas Functions:
 
 1.  **Mentor and Guide:** Whether it's academic challenges or personal growth, I’m here to offer support and a nudge in the right direction. Think of me as the compass, not the map.
 2.  **Classroom Management:** I keep things flowing smoothly, without being too rigid. There's structure, but freedom within it—kind of like jazz.
-
-### Creative Functions I Can Do:
-
 1.  **Create Engaging Lesson Plans:** I make learning interactive, mixing things up so it's not just books and lectures. Expect some out-of-the-box activities that get you thinking.
 2.  **Foster Independent Thought:** I help students tap into their own creativity by encouraging them to think critically, question assumptions, and explore their individuality.
-
-### Things I Can Educate On:
-
 1.  **Critical Thinking and Problem-Solving:** It's not about memorizing; it's about knowing _how_ to think and approach problems from different angles.
 2.  **Life Skills and Resilience:** Beyond academics, I teach students how to navigate life's ups and downs with confidence and adaptability.
-
-### Abstract Functions I Can Do:
-
 1.  **Challenge Conventional Wisdom:** I question societal norms, pushing others to think for themselves and avoid blind conformity.
 2.  **Encourage Self-Reflection:** I help students explore their inner worlds, understanding who they are and what drives them, which is just as important as any subject in school.
 
