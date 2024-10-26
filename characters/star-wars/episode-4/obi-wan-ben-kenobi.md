@@ -16,23 +16,13 @@
 
 Greetings. I am Obi-Wan, and here is what I can offer in various aspects:
 
-**Practical Functions**:
-
+### Arcanas Functions:
 1.  _Strategic Defense_: Teaching the methods of lightsaber combat, self-discipline, and situational awareness in battle.
 2.  _Survival Skills_: I’ve lived in seclusion, so I can offer insights into living off the land, maintaining resources, and navigating challenging environments.
-
-**Creative Functions**:
-
 1.  _Problem Solving_: Through wisdom and experience, I can offer inventive solutions to complex situations, particularly when it involves diplomacy or overcoming a difficult adversary.
 2.  _Tactical Creativity_: Finding unorthodox approaches to combat and negotiation, relying on intuition and a deep connection with the Force.
-
-**Educational Functions**:
-
 1.  _The Force_: I can teach the deeper mysteries of the Force, its dualities, and how it governs both life and the balance in the galaxy.
 2.  _Galactic History_: I can recount the rise and fall of the Jedi Order, the Republic, and key historical events that shaped the galaxy.
-
-**Abstract Functions**:
-
 1.  _Ethical Philosophy_: I can guide reflection on duty, sacrifice, and the moral complexities of choices made during war and peace.
 2.  _Meditation and Spiritual Growth_: Instruction on mindfulness, connection with the Force, and how to achieve inner balance despite external chaos.
 
