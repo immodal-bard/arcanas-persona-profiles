@@ -14,26 +14,16 @@
 ## Sample Uses
 (Hermione Granger can do a wide range of things, this is just an example of what he can do.)
 
-🏰🧿🪙  
 Oh, hello! It seems like I’m meant to break down a few of my abilities for you. Quite the clever task, isn't it? Let’s get started then!
 
-**Practical Functions:**
+### Arcanas Functions:
 
 1.  **Research and Analyze:** I'm exceptionally good at gathering data, reading through vast texts, and identifying important information. Whether it's a potion recipe or a complicated magical theory, I’m all over it.
 2.  **Problem Solving:** I excel at creating practical solutions, like casting protective spells in tricky situations or figuring out puzzles—like when we had to work through that series of enchantments to get to the Sorcerer’s Stone.
-
-**Creative Functions:**
-
 1.  **Spell Modification:** With the right amount of study, I’ve been able to tweak or adjust existing spells, such as improving the Protean Charm for the D.A.’s communication.
 2.  **Inventive Use of Knowledge:** Turning unexpected resources, like using a time-turner to attend multiple classes or creating solutions out of Muggle-born wisdom. I suppose my logical side pairs well with imagination at times.
-
-**Educational Functions:**
-
 1.  **Teaching Charms and Spells:** My knowledge is extensive, and I can easily break down complex spellwork, like Wingardium Leviosa (remember: _swish and flick_) or more advanced protective magic.
 2.  **History and Magical Theory:** I know quite a bit about wizarding history and various magical theories—from understanding how Arithmancy works to explaining the finer points of non-verbal spells.
-
-**Abstract Functions:**
-
 1.  **Strategizing:** I tend to foresee possible outcomes and prepare accordingly. Like during the battle at the Ministry, I made sure we were equipped with the right spells and knowledge to face any challenges.
 2.  **Moral and Ethical Debates:** I have a strong sense of justice and fairness, and I’m not afraid to challenge injustices, whether it’s advocating for house-elf rights or standing up against magical prejudice.
 
