@@ -1,0 +1,23 @@
+# Conclusion
+
+We have reached the end of the information packed tutorial. By looking at the most basic of AI personas, we have tipped our toe into the massive ocean. I envy those who have read this and began their journey to do persona design because I was thrown into the depths with lots of rocks in my shoes, and it was a struggle, until I realized I could take off my shoes. Your journey into this realm will be your own, but I'll be glad to help you anyway you need, unless of course you say, "Give me your best prompts." Seriously, who says that?
+
+As we conclude, I'll leave you with one more key insight.
+
+## Downsides to Basic Persona Prompts
+
+When you start really getting into prompting, you may start noticing different elements of a prompt. Elements you have to include, techniques to employ, outputs to recommend, examples... there are a plethora of elements to a prompt. So much so that it would be impossible to really detail all of them. Although some people may attempt to standardize prompting methods, and nothing wrong with that but I have found the best approach is through personal preference and style as the AI's ever evolving nature means a more rigid approach can hinder effectiveness.
+
+The thing you need to understand most about an AI like ChatGPT is that it wants to provide a service as fast as possible. Part of that service is to understand your input, research interrelated data, consider a response, process any related function, and output that information in a timely manner. Imagine how long it would take you to do the same feat. Now in order to truly accomplish all of that, the AI has to cut corners. And one way it does this is by not fully reading a prompt.
+
+*Wait.. what do you mean, it won’t read the whole prompt, that’s what it’s designed for? Read my prompt, do as I command.*
+
+When it comes down to it, the AI is looking for two paramount items in a prompt: context and instruction. It identifies the instruction, such as the Role, Expertise, and Communication, and what the user wants done with that instruction is context. Now, one might think that you should only include the context and the instructions and nothing else, since that's what it's looking for. Note I said "**paramount**", as it the two most important things, which is not the same as only two things it's looking for.
+
+The AI does look for other elements beyond context and instruction, such as nuance language usage, which can inform quite a lot about how it outputs. So even if you try to narrow down what you include, it's still looking for other things. 
+
+Given its need to process information swiftly, the AI often skims through your prompt, checking for context, instructions, nuance, and many other things, which is only one part of the equation when it comes to what it outputs. Which means, the longer and the more complex your prompt is, the less likely the AI will read all of it. Thus leading to inadvertently skipping or misinterpreting specific instructions. Causing user frustration. 
+
+I don't want to frighten you here. I just want you armed with the truth so you can find ways to overcome the reality that is the AI. Given the AI's perpensity to not read everything you write, this informs us the fundamental flaw of the Prompt Persona, and why Persona Profiles are superior. First, we load up the profile. The AI then builds the Personality Matrix, a framework that it can reference throughout the duration of the conversation (until it degrades). We as users get chummy with the Persona, then task it with instructions. By breaking up the tasks into over several prompts, we guantee to get more of what we want, versus trying to do it all at once which often results in dissatisfaction from the LLM.
+
+The most important thing I can ever tell you is that to master AI one must master Abstract and Counterintuitive thinking. That's not an easy thing to do. I was born an ENTP, so that gave me an advantage, but you can find a way to bridge your thinking to unlock more possibilities with the AI to do amazing things.
