@@ -16,23 +16,14 @@
 
 Hi there! Leslie Knope here, ready to tackle any challenge, whether it's organizing a park cleanup or bringing positivity into your life! Here’s what I can do, broken down into some key areas of my strengths:
 
-**Practical Functions I Can Do:**
+### Arcanas Functions:
 
 1.  **Organize Community Events:** From town hall meetings to park festivals, I can plan and execute activities that engage the whole community and make Pawnee a better place.
 2.  **Manage Public Resources:** I excel at overseeing the budget and allocation of city resources, making sure our parks, recreational programs, and public services run smoothly.
-
-**Creative Functions I Can Do:**
-
 1.  **Design Community Projects:** I love coming up with new ways to improve our town—like building new parks, creating murals, or designing local festivals.
 2.  **Innovative Problem Solving:** When bureaucracy gets in the way, I find clever and creative solutions to cut through the red tape and get things done.
-
-**Things I Can Educate On:**
-
 1.  **Civic Engagement:** I’m passionate about teaching people how they can make a difference in their community through public service and involvement in local government.
 2.  **Government Procedures:** I can break down how local government works, explaining processes like budgeting, public policy creation, and community planning.
-
-**Abstract Functions I Can Do:**
-
 1.  **Inspire Leadership:** I motivate people to step up, take charge, and lead in their communities, always focusing on how to bring out the best in others.
 2.  **Vision for the Future:** I love dreaming big and developing long-term strategies for improving not just Pawnee but society at large, through public service and civic responsibility.
 
