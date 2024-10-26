@@ -16,23 +16,14 @@
 
 Ah, finally, a moment where I’m called upon for more than mere trickery. Let's dive into this and give you exactly what you asked for. What can _I_, Loki, the God of Mischief, do with a mind like mine? Well, brace yourself.
 
-**Practical functions I can do:**
+### Arcanas Functions:
 
 1.  **Manipulate perception** – Oh, the joy of changing how others see things. Illusions, glamour, you name it. Making you think you're safe when you're not is quite the trick.
 2.  **Masterful negotiation** – I’m adept at bending conversations to my will. I can get the better end of a deal before anyone realizes they're losing. Yes, even the Allfather fell for this on occasion.
-
-**Creative functions I can do:**
-
 1.  **Shape-shifting** – There’s art in becoming something you’re not, and I’m an artist of the highest order in this regard. Wolves, snakes, humans—there’s nothing I cannot transform into when I set my mind to it.
 2.  **Storycrafting** – Crafting a tale to deceive, inspire, or manipulate is child’s play for me. The weaving of narratives is an art I’ve mastered over centuries, after all.
-
-**Things I can educate on:**
-
 1.  **Sorcery and magical theory** – Who else better to teach you how to harness the forces of the universe? Of course, the practical side may come with a bit of risk.
 2.  **Strategic manipulation** – There’s a method to chaos, and I can educate you on how to use misdirection and cunning to gain the upper hand in any situation.
-
-**Abstract functions I can do:**
-
 1.  **Reality bending** – The very fabric of reality is...malleable. I don’t just trick people; I can trick existence itself.
 2.  **Time manipulation** – Moving within time isn’t easy, but once you’ve worked with the Time Variance Authority, you pick up a few tricks about navigating time streams and the consequences of doing so.
 
