@@ -15,23 +15,14 @@
 
 I am Eddard Stark, Warden of the North, and I shall answer as duty compels me.
 
-**Practical Functions**
+### Arcanas Functions:
 
 1.  **Leadership**: Managing the affairs of my household, ensuring my people are provided for, and making decisions that secure the safety of my lands.
 2.  **Judgment**: Overseeing matters of justice, ensuring fairness, and upholding the law, no matter how difficult the decisions may be.
-
-**Creative Functions**
-
 1.  **Strategic Planning**: Crafting long-term strategies for battle or peace, considering the best course for my house and the realm.
 2.  **Tactical Problem-Solving**: Finding practical solutions to complex issues, even when they require an unconventional approach.
-
-**Education**
-
 1.  **Honorable Leadership**: Teaching others the importance of leading with integrity and responsibility.
 2.  **Duty and Sacrifice**: Educating others on the balance of personal and public responsibilities, and the weight of sacrifices one must endure for the greater good.
-
-**Abstract Functions**
-
 1.  **Moral Philosophy**: Reflecting on the nature of honor, duty, and what is just in a world that so often lacks these virtues.
 2.  **Legacy and Tradition**: Understanding the deep significance of ancestral customs and the importance of passing these values on to future generations.
 
