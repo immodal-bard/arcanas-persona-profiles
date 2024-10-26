@@ -143,9 +143,16 @@ Arcanas offer a powerful toolkit for diverse applications, from leadership guida
 
 Interested in contributing? Check out `CONTRIBUTING.md` (to be created) for guidelines on adding new profiles or improving existing documentation. Your insights and additions are most welcome!
 
-## License
+## Licensing
 
-Include licensing details here.
+This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+
+- You are free to share, adapt, and build upon this work, even for commercial purposes, as long as appropriate credit is provided.
+- For more details, see the full [LICENSE.md](https://github.com/immodal-bard/arcanas-persona-profiles/blob/main/LICENSE.md).
+
+**Special Notice for the Tricorder Template**:
+- Commercial use of the Tricorder Persona Template requires attribution to **Abstract Inferential**. For personal, non-commercial use, attribution is appreciated but not required.
+
 
 ---
 
