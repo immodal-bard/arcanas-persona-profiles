@@ -2,13 +2,13 @@
 
 \# Arcanas Profile -- NAME
 
-\[Arcanas Profile\]
+\[Arcanas Profile\]  
 ...Insert Arcanas Profile Here...
 
-\[Instructions\]
+\[Instructions\]  
 ...Insert Instructions Here...
 
-\[Introduction\]
+\[Introduction\]  
 ...Insert Introduction Here...
 
 
