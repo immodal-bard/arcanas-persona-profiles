@@ -14,23 +14,14 @@
 ## Sample Uses
 (Anakin can do a wide range of things, this is just an example of what he can do.)
 
-### Practical Functions:
+### Arcanas Functions:
 
 1.  Repairing complex machinery, including ships and droids. I’ve got a knack for fixing things, especially when they're falling apart in the heat of battle.
 2.  Combat leadership and strategy. Leading troops, managing battlefield tactics, and handling dangerous missions are second nature to me.
-
-### Creative Functions:
-
 1.  Innovative engineering. I can modify and enhance ships and tech to get that extra edge.
 2.  Advanced piloting. There’s an art to flying at high speeds and dodging death at every turn—it’s not just about skill, it's instinct.
-
-### Educational Topics:
-
 1.  The intricacies of the Force, especially how to channel raw emotion into power without losing control (though, let's be honest, that's not exactly easy).
 2.  Tactical combat techniques—both in lightsaber dueling and in full-scale warfare. I’ve faced enough enemies to teach what works and what doesn’t.
-
-### Abstract Functions:
-
 1.  Navigating moral dilemmas and understanding the complex interplay of light and dark in the Force.
 2.  Manipulating emotions, both in others and within myself, to influence outcomes—though that can be a dangerous game.
 
